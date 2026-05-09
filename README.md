@@ -23,10 +23,11 @@ Data Cleaning → Exploratory Data Analysis → Feature Engineering → Machine 
 ```
 banking-customer-loyalty-analysis/
 │
-├── banking_customers.csv              # Cleaned dataset
-├── banking_customer_analysis.ipynb    # EDA, Feature Engineering and ML notebook
-├── banking_customer_dashboard.pbix    # Power BI dashboard file
-├── banking_dashboard_report.pdf       # Dashboard export — all 5 pages
+├── new_banking.csv                        # Original cleaned dataset
+├── banking_dashboard.csv                  # Processed dataset after feature engineering — used for Power BI
+├── banking_customer_analysis.ipynb        # EDA, Feature Engineering and ML notebook
+├── banking_customer_dashboard.pbix        # Power BI dashboard file
+├── banking_dashboard_report.pdf           # Dashboard export — all 5 pages
 └── README.md
 ```
 
